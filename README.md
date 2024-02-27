@@ -2,4 +2,4 @@ My article about this project : https://medium.com/@siromermer/developing-a-line
 <br>
 you can observe result of custom_line_follower.py : custom.mp4<br>
 custom_line_follower.py  works good except few exceptional conditions <br> 
-I will imporve HoughLinesP_line_follower.py  in future
+I will improve HoughLinesP_line_follower.py  in future
